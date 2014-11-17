@@ -6,5 +6,9 @@ public class Temp {
 		System.out.println("Git is funnny or is it");
 
 	}
+	
+	public void temp(){
+		
+	}
 
 }
