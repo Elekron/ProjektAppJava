@@ -12,6 +12,8 @@ public class Temp {
 		System.out.println("Git is fun");
 		//Hej
 		System.out.println("This is peter");
+		
+		System.out.println("This is andreas");
 	}
 
 }
